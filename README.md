@@ -68,6 +68,26 @@ This project is structured within a single integrated notebook/script.
 
 ---
 
+## Dataset Information
+
+The dataset contains historical chess game records including:
+
+- Player ratings (White & Black)
+
+- Number of moves played
+
+- Opening ECO code
+
+- Game result (Target variable)
+
+## Opening ECO Codes
+
+The opening_eco feature represents the Encyclopaedia of Chess Openings (ECO) classification system, which categorizes chess openings into standardized codes (e.g., B01, C20, E60).
+
+For detailed information about ECO classifications, refer to:
+https://www.365chess.com/eco.php
+
+---
 ## Using the Project
 
 1. Run the notebook.
